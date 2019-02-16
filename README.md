@@ -1,0 +1,2 @@
+# CoreJavaNote
+Notes for JavaSE
